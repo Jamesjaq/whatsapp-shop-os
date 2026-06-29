@@ -7,3 +7,4 @@ dist/
 .env.production
 auth_info_multi/
 baileys_store.json
+admin/
